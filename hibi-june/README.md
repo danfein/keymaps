@@ -40,3 +40,15 @@ M15 - not used
 ## QUIRKS 
 Right shift: tap for del, hold for shift  
 Esc: grave escape - cmd+esc = cmd+` - to support tabbing thru open application windows.
+Fn+w: Toggles windows layer 
+Caps Lock: Hold to access the navigation layer (layer 3)
+
+## Notes
+
+### iTerm
+The combo cmd+left|right, which are the mac shortcut to move to the start or end of a line, are used by the program to move between tabs, and don't work by default.  
+
+The standard home/end keys do work as expected in this case, but not everywhere on macOS responds consistantly to them, which is why layer three uses the mac shortcuts.  
+
+![iterm settings screen](./img/iterm-keybinding.png "iterm key binding")  
+One solution for iterm is to map the shortcut in the iterm settings>profile>keys>key bindings. It will compain about a conflict (because the program uses the shortcut for tabs), but you can override the default behavior if you don't need it, and the left hand navigation keys will work as expected. 
