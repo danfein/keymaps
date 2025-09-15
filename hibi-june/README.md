@@ -7,16 +7,16 @@ Backspace is on row 3, above enter.
 7u spacebar with three mod keys on each side. (ctl, alt, cmd, space, cmd, alt, ctl) 
 
 ## LAYERS  
-![keyboard wireframe](./img/hibi-layer0.png "layer zero")
+![keyboard wireframe](./img/hibi-layer0.png "layer zero")  
 0 - Default, keys generally do what they say, uses macros that target MacOS   
 
-![keyboard wireframe](./img/hibi-layer1.png "layer one")
+![keyboard wireframe](./img/hibi-layer1.png "layer one")  
 1 - Main fn layer, numbers become fkeys, right mods switch desktops.  
 
-![keyboard wireframe](./img/hibi-layer2.png "layer two")
+![keyboard wireframe](./img/hibi-layer2.png "layer two")  
 2 - Changes some of the macros from L1 to Windows equivilents.  
 
-![keyboard wireframe](./img/hibi-layer3.png "layer three")
+![keyboard wireframe](./img/hibi-layer3.png "layer three")  
 3 - Second fn layer (activiated w caps lock key) meta-navigation, WASD cluster becomes home/end, line up/down, to speed up navigating text.   
 
 ## MACROS   
